@@ -1,2 +1,3 @@
 # Chapter 3
-## How do I get started?
+## What is BNFC?
+BNFC stands for Backus-Naur Form Converter, 
