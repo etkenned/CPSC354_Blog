@@ -18,3 +18,24 @@ or you can install like I did for Mac OS using homebrew.
 
 
 ## How do I use BNFC?
+To get started with BNFC you need to download a context free grammar, I recomend Calc.cf to test if everything works.
+
+`bnfc -m -haskell Calc.cf`
+
+`make`
+
+The 'make' command is what creates the parser TestCalc. To test if everything went well, try the following command.
+
+`echo "2 + 4 * 6" | ./TestCalc`
+
+The output should look something like this
+
+`Parse Successful!`
+
+`[Abstract Syntax]`
+
+`EAdd (EInt 2) (EMul (EInt 4) (EInt 6))`
+
+`[Linearized tree]`
+
+`2 + 4 * 6`
