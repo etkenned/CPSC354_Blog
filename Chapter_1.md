@@ -16,10 +16,10 @@ To get started writing functional programs in Haskell, head over to [Chapter 2](
 
 [Chapter 6](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_6.md)
 
-[Chapter 7]()
+[Chapter 7](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_7.md)
 
-[Chapter 8]()
+[Chapter 8](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_8.md)
 
-[Chapter 9]()
+[Chapter 9](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_9.md)
 
 [Chapter 10](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_10.md)
