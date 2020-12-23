@@ -27,7 +27,7 @@ and start up the Haskell console.
 
 ## Index
 
-[Chapter 2](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_1.md)
+[Chapter 1](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_1.md)
 
 [Chapter 3](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_3.md)
 
