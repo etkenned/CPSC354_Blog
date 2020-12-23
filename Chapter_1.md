@@ -4,3 +4,22 @@ Haskell is a purely functional programming language. If you have never heard of 
 
 ## Where do I start?
 To get started writing functional programs in Haskell, head over to [Chapter 2](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_2.md)
+
+## Index 
+[Chapter 2](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_2.md)
+
+[Chapter 3](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_3.md)
+
+[Chapter 4](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_4.md)
+
+[Chapter 5](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_5.md)
+
+[Chapter 6](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_6.md)
+
+[Chapter 7]()
+
+[Chapter 8]()
+
+[Chapter 9]()
+
+[Chapter 10](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_10.md)
