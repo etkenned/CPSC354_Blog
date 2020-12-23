@@ -1,2 +1,2 @@
 # Chapter 6
-## What is recursion?
+## What is Lambda calculus?
