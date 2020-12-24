@@ -1,4 +1,4 @@
-# Chapter 4
+# Chapter 1
 ## What is the difference between functional, imparitive, and object oriented programming?
 
 ### Functional Programming
