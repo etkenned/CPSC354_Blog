@@ -17,3 +17,4 @@
 - **GHCI** : Glasgow Haskell Compiler.
 - **GCD** : Greatest Common Divisor.
 - **BNFC** : Backus-Naur Form Converter.
+- **Reduction** : The variables being replaced with the argument expression in the body of the abstract
