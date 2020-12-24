@@ -6,3 +6,6 @@ Haskell is a purely functional programming language. As apposed to normal functi
 To get started writing functional programs in Haskell, head over to [Chapter 3](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_3.md) and follow along with the instructions to set up the enviroment. 
 
 
+[Return to Index](https://github.com/etkenned/CPSC354_Blog/blob/main/README.md)
+
+[Next](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_3.md)
