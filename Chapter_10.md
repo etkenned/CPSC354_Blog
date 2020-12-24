@@ -16,6 +16,4 @@
 - **Recursion** : An almost circular function that defines in terms of itself.
 - **GHCI** : Glasgow Haskell Compiler.
 - **GCD** : Greatest Common Divisor.
-
-
-
+- **BNFC** : Backus-Naur Form Converter.
