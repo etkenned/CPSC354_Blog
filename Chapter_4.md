@@ -1,4 +1,4 @@
-# Chapter 3
+# Chapter 4
 ## What is BNFC?
 BNFC stands for Backus-Naur Form Converter, and it is a high-level front end to traditional implementation formats. Haskell uses BNFC to generate a compiler front-end from a Labelled BNF grammar. Basicly it compiles a compiler. In my experience before you install BNFC you need to make sure you have alex and happy installed. If you do not then you can download them if you have successfuly installed cabal by inputing these commands into your terminal.
 
@@ -47,7 +47,7 @@ The output should look something like this
 
 [Chapter 2](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_2.md)
 
-[Chapter 4](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_4.md)
+[Chapter 3](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_3.md)
 
 [Chapter 5](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_5.md)
 
