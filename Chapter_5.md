@@ -57,3 +57,5 @@ Each list is made up of a head and a tail and you can access them both seporatly
 
 `[2,3,4]:: Num a => [a]`
 
+
+[Return to Index](https://github.com/etkenned/CPSC354_Blog/blob/main/README.md)
