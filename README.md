@@ -28,6 +28,8 @@ In this blog I will attempt to teach you what I've learned in haskel by answerin
 
 [Chapter 7](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_7.md)
 
+- What is recursion?
+
 [Chapter 8](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_8.md)
 
 [Chapter 9](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_9.md)
