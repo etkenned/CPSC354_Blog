@@ -26,3 +26,5 @@ If everything was installed correctly then you should be able to input the comma
 and start up the Haskell console.
 
 [Return to Index](https://github.com/etkenned/CPSC354_Blog/blob/main/README.md)
+
+[Next](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_4.md)
