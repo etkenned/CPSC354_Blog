@@ -28,3 +28,5 @@ All together the function would look like this.
 `2`
 
 In order for us to see the result of our function we need to use the print() function to display the outcome '2' in the compiler.
+
+[Return to Index](https://github.com/etkenned/CPSC354_Blog/blob/main/README.md)
