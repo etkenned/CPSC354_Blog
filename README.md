@@ -12,6 +12,8 @@ In this blog I will attempt to teach you what I've learned in haskel by answerin
 
 [Chapter 3](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_3.md)
 
+- How do I get started?
+
 [Chapter 4](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_4.md)
 
 [Chapter 5](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_5.md)
