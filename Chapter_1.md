@@ -12,4 +12,4 @@ Object oriented Programming is based on creating objects that contain data and c
 
 [Return to Index](https://github.com/etkenned/CPSC354_Blog/blob/main/README.md)
 
-[Next]()
+[Next](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_2.md)
