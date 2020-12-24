@@ -9,3 +9,7 @@ In imparitive porgramming, programs are wirtten as a list of commands for the co
 
 ### Object Oriented Programming
 Object oriented Programming is based on creating objects that contain data and code. The main use of OOP is is to design a program made up of intercommunicating objects and classes. Objects can modify their own data using their own code / procedures. You would use OOP when you have a fixed set of operations and want to evolve your code with more classes that use the existing methods.
+
+[Return to Index](https://github.com/etkenned/CPSC354_Blog/blob/main/README.md)
+
+[Next]()
