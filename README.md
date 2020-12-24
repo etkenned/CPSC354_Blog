@@ -8,6 +8,8 @@ In this blog I will attempt to teach you what I've learned in haskel by answerin
 
 [Chapter 2](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_2.md)
 
+- What is Haskell?
+
 [Chapter 3](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_3.md)
 
 [Chapter 4](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_4.md)
