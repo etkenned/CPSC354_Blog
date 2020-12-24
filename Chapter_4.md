@@ -42,3 +42,5 @@ The output should look something like this
 
 
 [Return to Index](https://github.com/etkenned/CPSC354_Blog/blob/main/README.md)
+
+[Next](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_5.md)
