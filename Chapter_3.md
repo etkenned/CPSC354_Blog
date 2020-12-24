@@ -1,4 +1,4 @@
-# Chapter 2
+# Chapter 3
 ## How do I get started?
 Before I could actualy get started writing any code for Haskell, I first had to set up the enviroment. To do this you need to have your terminal ready and go to the Haskell home page [here](https://www.haskell.org/platform/#osx), and follow along with their instructions depending on your operating system. 
 
@@ -29,7 +29,7 @@ and start up the Haskell console.
 
 [Chapter 1](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_1.md)
 
-[Chapter 3](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_3.md)
+[Chapter 2](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_2.md)
 
 [Chapter 4](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_4.md)
 
