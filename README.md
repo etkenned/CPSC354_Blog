@@ -16,6 +16,8 @@ In this blog I will attempt to teach you what I've learned in haskel by answerin
 
 [Chapter 4](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_4.md)
 
+- What is BNFC?
+
 [Chapter 5](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_5.md)
 
 [Chapter 6](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_6.md)
