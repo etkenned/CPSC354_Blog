@@ -22,3 +22,5 @@ The normal form is the most reduced the lambda term can become with the given op
 For a system of rules that manipulate data to be considered Turing complete, they would have to be able to simulate any Turing machine. To simulate any Turing machine the system would need to be able to recognize or decide other data manipulation rule sets. Lambda calculus is Turing complete because with enough time, the versitility of the lambda functions allows them to be written to simulate any Turing machine.
 
 [Return to Index](https://github.com/etkenned/CPSC354_Blog/blob/main/README.md)
+
+[Next](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_9.md)
