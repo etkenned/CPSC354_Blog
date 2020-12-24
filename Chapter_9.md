@@ -39,3 +39,5 @@ With 'c' being the normal form. We can know that 'c' is a unique normal form usi
 This invariant would be able to determine the unique normal form for any of the sets, either the total number of a's, b's, and c's is even and the normal form is the empty word, or the total is odd and the normal form is 'c'. 
 
 [Return to Index](https://github.com/etkenned/CPSC354_Blog/blob/main/README.md)
+
+[Next](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_10.md)
