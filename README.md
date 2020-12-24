@@ -39,3 +39,5 @@ In this blog I will attempt to teach you what I've learned in haskel by answerin
 - What is an ARS?
 
 [Chapter 10](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_10.md)
+
+- What does ___ mean?
