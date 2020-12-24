@@ -8,7 +8,7 @@ Recursion is when a function contains a reference to itself and so can call itse
 
 `fib n = fib (n-1) + fib (n-2)`
 
-What this haskell code does is that it checks if the value of n is 0, in that case the output is 0. If the value of n is 1, then the output is 1. For all other cases of n, the output is the output of fib(n-1) added to the output of fib(n-2). A good way to visualise this is with a branching tree where n = 4.
+What this haskell code does is implement pattern matching so the compiler will check if the argument of fib is equal to 0. If the argument is not 0 then the compiler moves on, the same goes for if the argument is equal to 1. When the argument does match the pattern, the output is set and the function ends. For all other cases of n, the output is the output of fib(n-1) added to the output of fib(n-2). A good way to visualise this is with a branching tree where n = 4.
 
                        fib(4)
                       /     \
