@@ -20,6 +20,8 @@ In this blog I will attempt to teach you what I've learned in haskel by answerin
 
 [Chapter 5](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_5.md)
 
+-What are the basic data types in Haskell?
+
 [Chapter 6](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_6.md)
 
 [Chapter 7](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_7.md)
