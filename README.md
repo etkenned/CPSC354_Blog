@@ -1,5 +1,5 @@
 # CPSC354_Blog
-In this blog I will attempt to teach you what I've learned in haskel by answering some of the imporatant questions I had while learning it myself.
+In this blog I will attempt to teach you what I've learned in haskel by answering some of the imporatant questions I had while learning it myself. Please start off with Chapter 1.
 
 ## Index 
 [Chapter 1](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_1.md)
