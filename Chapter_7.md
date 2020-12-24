@@ -19,3 +19,5 @@ What this haskell code does is implement pattern matching so the compiler will c
     fib(1) + fib(0)
     
 Then once no more recursive calls can be made, the values of the fib(1)'s and fib(0)'s are added up and returned as the output for the fib(4).
+
+[Return to Index](https://github.com/etkenned/CPSC354_Blog/blob/main/README.md)
