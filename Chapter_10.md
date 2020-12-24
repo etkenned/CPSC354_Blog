@@ -18,3 +18,5 @@
 - **GCD** : Greatest Common Divisor.
 - **BNFC** : Backus-Naur Form Converter.
 - **Reduction** : The variables being replaced with the argument expression in the body of the abstract
+
+[Return to Index](https://github.com/etkenned/CPSC354_Blog/blob/main/README.md)
