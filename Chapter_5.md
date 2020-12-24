@@ -1,4 +1,4 @@
-# Chapter 7
+# Chapter 5
 ## What are the basic data types in Haskell?
 
 To begin writing code in Haskell you need to first open the GHCI compiler by inputing the command,
