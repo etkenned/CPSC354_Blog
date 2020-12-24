@@ -1,4 +1,4 @@
-# Chapter 8
+# Chapter 6
 ## How do I write functions in Haskell?
 Now that you know the basic data types, you can start making your own functions. To declare a function you need a name, argument list, and output. 
 
