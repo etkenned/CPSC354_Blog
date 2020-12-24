@@ -4,6 +4,8 @@ In this blog I will attempt to teach you what I've learned in haskel by answerin
 ## Index 
 [Chapter 1](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_1.md)
 
+- What is the difference between functional, imparitive, and object oriented programming?
+
 [Chapter 2](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_2.md)
 
 [Chapter 3](https://github.com/etkenned/CPSC354_Blog/blob/main/Chapter_3.md)
